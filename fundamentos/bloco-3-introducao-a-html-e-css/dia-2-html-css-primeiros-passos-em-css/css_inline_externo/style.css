@@ -1,0 +1,18 @@
+h1 {
+    font-family: sans-serif;
+}
+p {
+    font-weight: 600;
+}
+body {
+    font-size: 16px;
+}
+p {
+    line-height: 3em;
+}
+ul {
+    font-style: italic;
+    line-height: 20px;
+    text-align: justify;
+    text-decoration: underline;
+}
