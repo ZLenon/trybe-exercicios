@@ -1,0 +1,27 @@
+div:hover {
+    display: inline-block;
+    border: 5px solid black;    
+}
+.corPrimaria {
+    background-color: red;
+    display: inline;
+}
+.corSecundaria {
+    background-color: yellow;
+    display: inline;
+}
+.corComplementar {
+    background-color: blueviolet;
+    display: inline;
+}
+.corEscura {
+    background-color: rgb(92, 92, 92);
+    display: inline;
+}
+.corClara {
+    background-color: cyan;
+    display: inline;
+}
+h3 {
+    font-family: monospace;
+}
