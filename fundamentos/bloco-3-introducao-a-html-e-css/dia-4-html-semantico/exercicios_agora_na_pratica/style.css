@@ -1,0 +1,11 @@
+.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: right;
+    width: 180px;
+}
+  
+.legenda {
+    padding: 15px;
+    text-align: center;
+  }
